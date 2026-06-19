@@ -2,13 +2,19 @@
 
 # 👩‍💻 Meenakshi Gupta
 
-```text
-┌──────────────────────────────────────────────┐
-│ AI/ML Explorer | CSE (AIML) Student          │
-│ Building ML Projects & Exploring GenAI       │
-│ Python • NumPy • Pandas • Java • SQL         │
-└──────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center">
+
+🤖 <b>AI/ML Explorer</b> • 🎓 <b>CSE (AIML)</b><br>
+🚀 Building Machine Learning Skills & Exploring Generative AI<br>
+💻 Python • NumPy • Pandas • Java • SQL
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Machine+Learning+Projects;Exploring+Generative+AI;Solving+Problems+with+Python;Aspiring+ML+Engineer&center=true&width=600&height=45">
 
@@ -20,22 +26,21 @@
 
 ```python
 class Meenakshi:
-    def __init__(self):
-        self.role = "CSE (AIML) Student"
-        self.learning = [
-            "Python",
-            "NumPy",
-            "Pandas",
-            "Machine Learning"
-        ]
-        self.building = [
-            "AI Career Mentor Agent",
-            "Rebrob AI Challenge"
-        ]
-        self.goal = "ML & Generative AI Engineer"
+    role = "CSE (AIML) Student"
 
-    def motto(self):
-        return "Learning AI one project at a time 🚀"
+    learning = [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Machine Learning"
+    ]
+
+    interests = [
+        "Machine Learning",
+        "Generative AI"
+    ]
+
+    goal = "ML & Generative AI Engineer"
 ```
 
 ---
@@ -68,12 +73,10 @@ class Meenakshi:
 
 🔹 AI Manufacturing Quality Prediction
 
-
-
 ---
 
 <div align="center">
 
-### ✨ Learning AI • Building Projects • Growing Every Day
+### ✨ Building ML Projects • Exploring GenAI • Learning Every Day
 
 </div>
