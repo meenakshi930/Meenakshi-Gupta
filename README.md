@@ -7,7 +7,7 @@
 <td align="center">
 
 🤖 <b>AI/ML Explorer</b> • 🎓 <b>CSE (AIML)</b><br>
-🚀 Building Machine Learning Skills & Exploring Generative AI<br>
+🚀 Learning Machine Learning & Exploring Generative AI<br>
 💻 Python • NumPy • Pandas • Java • SQL
 
 </td>
@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Machine+Learning+Projects;Exploring+Generative+AI;Solving+Problems+with+Python;Aspiring+ML+Engineer&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Machine+Learning;Exploring+Generative+AI;Solving+Problems+with+Python;Building+Projects+Every+Day&center=true&width=600&height=45">
 
 </div>
 
@@ -42,6 +42,15 @@ class Meenakshi:
 
     goal = "ML & Generative AI Engineer"
 ```
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning Fundamentals
+- NumPy & Pandas
+- Generative AI
+- Data Structures & Algorithms
 
 ---
 
@@ -75,8 +84,14 @@ class Meenakshi:
 
 ---
 
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/meenakshi-gupta-aa30bb338)
+
+---
+
 <div align="center">
 
-### ✨ Building ML Projects • Exploring GenAI • Learning Every Day
+### ✨ Learning AI • Building Projects • Growing Every Day
 
 </div>
