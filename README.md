@@ -2,11 +2,18 @@
 
 # Hey 👋 I'm Meenakshi Gupta
 
-### AI/ML Explorer | CSE(AIML) Student | Aspiring ML & GenAI Engineer
+### 🤖 AI/ML Explorer | CSE (AIML) Student
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+AI+one+project+at+a+time;Building+with+Python+and+GenAI;Future+ML+Engineer&center=true&width=500&height=45">
+### 🚀 Aspiring Machine Learning & Generative AI Engineer
 
-## Skills
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Machine+Learning+Projects;Exploring+Generative+AI;Turning+Data+into+Insights;Learning+AI+one+project+at+a+time&center=true&width=600&height=45">
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
 - Python
 - Java
 - SQL
@@ -14,4 +21,18 @@
 - Pandas
 - Git & GitHub
 
-</div>
+---
+
+## 🎯 Current Focus
+
+- Machine Learning
+- Generative AI
+- Python Development
+- Data Structures & Algorithms
+
+---
+
+## 📌 Featured Projects
+
+- AI Manufacturing Quality Prediction
+
